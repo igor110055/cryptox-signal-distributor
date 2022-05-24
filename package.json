@@ -1,0 +1,16 @@
+{
+  "name": "dealer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/Main.js"
+  },
+  "author": "bgarciax",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "binance-api-node": "^0.11.36",
+    "generate-unique-id": "^2.0.1"
+  }
+}

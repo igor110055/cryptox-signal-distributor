@@ -1,0 +1,12 @@
+{
+    "id": "auto-generated",
+    "name": "example",
+    "priority": 1,
+    "serverIp": "177.12.41.82",
+    "serverPort": 7722,
+    "strategy": "conservative",        
+    "binanceApiInfo": {
+        "apiKey": "api-key",
+        "apiSecret": "secret-key"
+    }
+}

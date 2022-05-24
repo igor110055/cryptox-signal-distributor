@@ -1,0 +1,19 @@
+{
+    "allowOperation": true,
+    "signalReceiveServerPort": 7773,
+    "pastPricesSize": 600,
+    "debug": true,
+
+    "binanceApiInfo": {
+        "apiKey": "hq-api-key",
+        "apiSecret": "hq-secret-key"
+    },
+
+    "operationalAssets": [
+        "USDT",
+        "BTC",
+        "BUSD",
+        "ETH",
+        "BNB"
+    ]
+}

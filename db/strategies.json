@@ -1,0 +1,64 @@
+{
+    "Conservative": {
+        "Spot": {
+            "totalOrderSize": 0.05,
+            "baseOrderSize": 0.3,
+            "leverage": 2,
+            "takeProfit": "dynamic",
+            "stopLoss": 0,
+            "timeout": 0,
+            "martingaleCoverage": 10
+        },
+        "Futures": {
+            "totalOrderSize": 0.05,
+            "baseOrderSize": 0.3,
+            "leverage": 4,
+            "takeProfit": "dynamic",
+            "stopLoss": 0,
+            "timeout": 0,
+            "martingaleCoverage": 10
+        }
+    },
+
+    "Moderate": {
+        "Spot": {
+            "totalOrderSize": 0.15,
+            "baseOrderSize": 0.3,
+            "leverage": 2,
+            "takeProfit": "dynamic",
+            "stopLoss": 0,
+            "timeout": 0,
+            "martingaleCoverage": 10
+        },
+        "Futures": {
+            "totalOrderSize": 0.15,
+            "baseOrderSize": 0.3,
+            "leverage": 4,
+            "takeProfit": "dynamic",
+            "stopLoss": 0,
+            "timeout": 0,
+            "martingaleCoverage": 10
+        }
+    },
+
+    "Agressive": {
+        "Spot": {
+            "totalOrderSize": 0.5,
+            "baseOrderSize": 0.3,
+            "leverage": 2,
+            "takeProfit": "dynamic",
+            "stopLoss": 0,
+            "timeout": 0,
+            "martingaleCoverage": 10
+        },
+        "Futures": {
+            "totalOrderSize": 0.5,
+            "baseOrderSize": 0.3,
+            "leverage": 4,
+            "takeProfit": "dynamic",
+            "stopLoss": 0,
+            "timeout": 0,
+            "martingaleCoverage": 10
+        }
+    }
+}
